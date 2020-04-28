@@ -4,10 +4,12 @@ Frontend for the [OpenSky](https://opensky-network.org/apidoc/rest.html) test pr
 
 DEV: http://localhost:3000
 
+STAGE: https://opensky-test-react.herokuapp.com
+
 ### Deploy
 
 ```shell script
-git clone https://github.com/_/opensky-test-frontend
+git clone https://github.com/A-Kazakova/opensky-test-frontend
 cd ./opensky-test-frontend
 nvm use 12.16.2
 npm i -g yarn
