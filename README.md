@@ -6,6 +6,16 @@ DEV: http://localhost:3000
 
 STAGE: https://opensky-test-react.herokuapp.com
 
+Credentials:
+
+```text
+login:
+demo
+
+password:
+demo
+```
+
 ### Deploy
 
 ```shell script
